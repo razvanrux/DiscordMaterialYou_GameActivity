@@ -3,7 +3,7 @@
 :root {
   --app-font: "Google Sans";
   --app-bg: var(--main-alt);
-  --accent-hue: 224;
+  --accent-hue: 150;
   --accent-saturation: 71%;
   --accent-lightness: 61%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
@@ -2131,7 +2131,7 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
   line-height: 46px;
 }
 .ChannelDms-channelmembers-wrap .privateChannels-oVe7HL {
-  width: 240px;
+   width: 300px;
 }
 .ChannelDms-channelmembers-wrap .privateChannelsHeaderContainer-1UWASm {
   padding: 18px 8px 4px 16px;
@@ -2222,7 +2222,7 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
   border-top-left-radius: var(--card-radius-big);
 }
 .hideElement.sidebar-1tnWFu + .chat-2ZfjoI .typing-2J1mQU {
-  width: calc(100% + 240px);
+  width: calc(100% + 300px);
   left: -240px;
 }
 
@@ -5187,7 +5187,7 @@ div[role=radiogroup] {
   height: 32px;
 }
 .search-2Mwzzq.open-1F8u2c {
-  width: 240px;
+   width: 300px;
 }
 
 /*
@@ -5507,7 +5507,7 @@ div[role=radiogroup] {
   transition: 300ms ease width;
 }
 .libraryFilter-1nwg6T.focused-mTQKRf {
-  width: 240px;
+   width: 300px;
 }
 
 .scroller-2XLwLg,
