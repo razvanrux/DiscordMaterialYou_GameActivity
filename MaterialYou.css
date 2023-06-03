@@ -2222,7 +2222,7 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
   border-top-left-radius: var(--card-radius-big);
 }
 .hideElement.sidebar-1tnWFu + .chat-2ZfjoI .typing-2J1mQU {
-  width: calc(100% + 240px);
+  width: calc(100% + 300px);
   left: -240px;
 }
 
