@@ -3,9 +3,9 @@
 :root {
   --app-font: "Google Sans";
   --app-bg: var(--main-alt);
-  --accent-hue: 200;
+  --accent-hue: 210;
   --accent-saturation: 100%;
-  --accent-lightness: 50%;
+  --accent-lightness: 70%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
   --accent-button-action: hsl(0,0%,100%);
   --accent-button-action-hover: 0.06;
